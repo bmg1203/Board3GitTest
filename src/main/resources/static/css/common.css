@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+css 초기화
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+main {
+	width: 80%;
+	margin: 0 auto;
+}
